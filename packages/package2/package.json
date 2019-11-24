@@ -4,6 +4,9 @@
   "main": "index.js",
   "author": "Sameer Kulkarni",
   "license": "MIT",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
+  },
   "scripts": {
     "test": "echo testing '@lerna-poc/package2'"
   }
