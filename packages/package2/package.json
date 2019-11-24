@@ -1,0 +1,10 @@
+{
+  "name": "@lerna-poc/package2",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Sameer Kulkarni",
+  "license": "MIT",
+  "scripts": {
+    "test": "echo testing '@lerna-poc/package2'"
+  }
+}

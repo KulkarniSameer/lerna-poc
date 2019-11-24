@@ -1,0 +1,15 @@
+{
+  "name": "@lerna-poc/core",
+  "version": "1.0.0",
+  "description": "core package",
+  "main": "index.js",
+  "author": "Sameer Kulkarni",
+  "license": "MIT",
+  "dependencies": {
+    "@lerna-poc/package1": "1.0.0",
+    "@lerna-poc/package2": "1.0.0"
+  },
+  "scripts": {
+    "test": "echo testing '@lerna-poc/core'"
+  }
+}
