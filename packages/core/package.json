@@ -1,6 +1,6 @@
 {
   "name": "@lerna-poc/core",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "core package",
   "main": "index.js",
   "author": "Sameer Kulkarni",
@@ -9,8 +9,8 @@
     "registry": "https://npm.pkg.github.com/"
   },
   "dependencies": {
-    "@lerna-poc/package1": "^1.0.1",
-    "@lerna-poc/package2": "^1.0.1"
+    "@lerna-poc/package1": "^1.0.2",
+    "@lerna-poc/package2": "^1.0.2"
   },
   "scripts": {
     "test": "echo testing '@lerna-poc/core'"
