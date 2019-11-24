@@ -9,6 +9,7 @@
   },
   "scripts": {
     "test": "lerna run test",
-    "test:packages": "lerna run test --scope=@lerna-poc/package*"
+    "test:packages": "lerna run test --scope=@lerna-poc/package*",
+    "create:version": "lerna version --conventional-commits"
   }
 }
