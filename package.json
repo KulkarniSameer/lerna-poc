@@ -8,7 +8,7 @@
     "lerna": "^3.19.0"
   },
   "scripts": {
-    "test": "lerna run test",
+    "test:all": "lerna run test",
     "test:packages": "lerna run test --scope=@lerna-poc/package*",
     "create:version": "lerna version --conventional-commits"
   }
